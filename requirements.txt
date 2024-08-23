@@ -1,5 +1,5 @@
---prefer-binary
-streamlit==1.26.0
-tensorflow==2.16.2
-numpy==1.24.3
-Pillow==9.3.0
+streamlit
+tensorflow
+Pillow
+numpy
+matplotlib
